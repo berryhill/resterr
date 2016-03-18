@@ -35,5 +35,5 @@ var routes = Routes{
       "POST",
       "/todos",
       TodoCreate,
-},
+   },
 }
